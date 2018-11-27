@@ -1,2 +1,22 @@
-# Athena_FAQ
-This is FAQ for Athena.
+# athena_FAQ_MJ
+
+### DevOps
+
+#### Docker
+
+#### git
+
+#### AWS
+
+### STT
+
+#### GCP
+
+### CleanCode - convention
+
+#### Variable
+
+#### Function
+
+#### Etc..
+
